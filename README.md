@@ -35,14 +35,7 @@ int main(void){
 
 * * *
 
-![Alt "Hello"](https://guides.github.com/activities/hello-world/branching.png)
+![Alt "Hello"](https://guides.github.com/activities/hello-world/branching.png)   
 
-
-
-
-
-
-
-
-
+why
 	
