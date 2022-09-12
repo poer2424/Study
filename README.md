@@ -2,11 +2,9 @@ Text can be **bold**, italic_, ~~strikethrough~~,
 
 [Link to git](https://github.com)
 
-# Header 1
-## Header 2
-### Header 3
-#### Header 4
-##### Header 5
+# Study
+## Webstudy : DO IT 웹 표준의 정석
+### Insert next Header
 
 > This is blockquote following a header.
 
@@ -36,6 +34,3 @@ int main(void){
 * * *
 
 ![Alt "Hello"](https://guides.github.com/activities/hello-world/branching.png)   
-
-why
-	
