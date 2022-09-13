@@ -1,4 +1,4 @@
-Text can be **bold**, italic_, ~~strikethrough~~,
+Text can be **bold**, _italic_, ~~strikethrough~~,
 
 [Link to git](https://github.com)
 
