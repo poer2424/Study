@@ -79,12 +79,12 @@ git rm --cached {파일명}
 * git log --oneline
   * commit 메세지 제목만 간단하게 보기
 
-## show
 
-**commit의 상세정보 확인**
+## git fetch -p 
 
->git show
+* 로컬저장소를 최신정보로 갱신, 유효하지 않은 참조 제거
 
-* 
+## git checkout -b <branch>, git push origin <branch>
 
+* 새로운 브랜치 만들고 그 새로운 브랜치를 remote에 업데이트.
 
