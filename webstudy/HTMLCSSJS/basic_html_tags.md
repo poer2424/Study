@@ -55,3 +55,7 @@
 4. audio : 오디오 삽입
 5. video : 비디오 삽입
 
+* css 연계
+
+1. div : 레이아웃 나누기 ```<div></div>```
+2. span : ```<span style="background-color:red">내용</span>```
